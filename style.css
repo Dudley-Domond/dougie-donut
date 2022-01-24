@@ -1,0 +1,51 @@
+body {
+  font-size: 1.5rem;
+  color: orange;
+  text-align: center;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/New_york_times_square-terabass.jpg/1200px-New_york_times_square-terabass.jpg");
+}
+
+h1 {
+  margin: 3rem;
+  padding: 1.5rem;
+  font-size: 3rem;
+  color: white;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+button {
+  background-color: blue;
+  font-size: 1.2rem;
+}
+
+.show {
+  display: none;
+}
+
+.hidden {
+  display: visible;
+}
+
+#manhattan {
+  color: orange;
+  background-color: black;
+}
+
+#brooklyn {
+  color: white;
+  background-color: black;
+}
+
+#queens {
+  color: red;
+  background-color: black;
+}
+
+#statenisland {
+  color: whitesmoke;
+  background-color: black;
+}
+
+#bronx {
+  color: orange;
+  background-color: black;
+}
